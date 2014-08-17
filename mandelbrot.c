@@ -1,5 +1,5 @@
 /*
- *  © 2013-14 Louis-Guillaume Gagnon <louis.guillaume.gagnon@gmail.com>
+ *  © 2014 Louis-Guillaume Gagnon <louis.guillaume.gagnon@gmail.com>
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
